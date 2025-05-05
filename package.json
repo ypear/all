@@ -27,7 +27,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "local-first",
+    "offline-first",
+    "distributed",
+    "p2p",
+    "hypercore",
+    "corestore",
+    "hyperswarm",
+    "database",
+    "autobase",
+    "yjs"
+  ],
+  "author": "Benz Muircroft",
+  "license": "MIT"
 }
