@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/ypear/all.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@ypear/timing": "github:ypear/timing",
     "@ypear/currency": "github:ypear/currency",
