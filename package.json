@@ -1,0 +1,30 @@
+{
+  "name": "@ypear/meta",
+  "version": "1.0.0",
+  "description": "Ypear organization root package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ypear/all.git"
+  },
+  "dependencies": {
+    "@ypear/timing": "github:ypear/timing",
+    "@ypear/currency": "github:ypear/currency",
+    "@ypear/router": "github:ypear/router",
+    "@ypear/crdt": "github:ypear/crdt",
+    "@ypear/database": "github:ypear/database",
+    "@ypear/userbase": "github:ypear/userbase",
+    "@ypear/events": "github:ypear/events",
+    "@ypear/forks": "github:ypear/forks"
+  },
+  "bugs": {
+    "url": "https://github.com/ypear/all/issues"
+  },
+  "homepage": "https://github.com/ypear/all#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
