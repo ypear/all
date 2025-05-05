@@ -22,5 +22,5 @@ Installs all ypear modules
 
 ### 💾 Installation
 ```js
-npm install github:ypear/all
+npm install @ypear/all
 ```
